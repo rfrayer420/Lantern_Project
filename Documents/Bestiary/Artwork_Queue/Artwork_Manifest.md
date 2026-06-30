@@ -1,0 +1,42 @@
+# Artwork Production Queue
+
+- Lantern Forest: Moss_Stalker_v1.png
+- Lantern Forest: Rootmaw_v1.png
+- Lantern Forest: Lantern_Wisp_v1.png
+- Lantern Forest: Briarback_v1.png
+- Lantern Forest: Hollow_Husk_v1.png
+- Lantern Forest: Spore_Crawler_v1.png
+- Lantern Forest: Glowcap_Herd_v1.png
+- Lantern Forest: Thornling_v1.png
+- Lantern Forest: Rotbloom_v1.png
+- Lantern Forest: Shade_of_the_Thicket_v1.png
+- Lantern Forest: Putrid_Stag_v1.png
+- Lantern Forest: Webspinner_v1.png
+- Lantern Forest: Fungal_Leech_v1.png
+- Lantern Forest: Crooked_Treant_v1.png
+- Lantern Forest: Murkmire_Slug_v1.png
+- Lantern Forest: Gravetorch_v1.png
+- Lantern Forest: Leaflurker_v1.png
+- Lantern Forest: Bog_Raider_v1.png
+- Lantern Forest: Whisperbark_v1.png
+- Lantern Forest: The_Mossmother_v1.png
+- Labyrinth: The_Forgotten_v1.png
+- Labyrinth: The_Hollow_Choir_v1.png
+- Labyrinth: The_Candle_Men_v1.png
+- Labyrinth: The_Hunger_v1.png
+- Labyrinth: The_Weeper_v1.png
+- Labyrinth: The_Ashborn_v1.png
+- Labyrinth: The_Skin_Collector_v1.png
+- Labyrinth: The_Broken_Saint_v1.png
+- Labyrinth: The_Bell_Keeper_v1.png
+- Labyrinth: The_Ragman_v1.png
+- Labyrinth: The_Bone_Orchard_v1.png
+- Labyrinth: The_Drowned_Pilgrim_v1.png
+- Labyrinth: The_Smiling_Judge_v1.png
+- Labyrinth: The_Black_Shepherd_v1.png
+- Labyrinth: The_Maw_in_the_Walls_v1.png
+- Labyrinth: The_Ferryman_of_Thorns_v1.png
+- Labyrinth: The_Children_in_the_Fog_v1.png
+- Labyrinth: The_Last_Penitent_v1.png
+- Labyrinth: The_Warden_of_Chains_v1.png
+- Labyrinth: The_Lantern_Beast_v1.png

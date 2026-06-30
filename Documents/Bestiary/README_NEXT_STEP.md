@@ -1,0 +1,1 @@
+Next production phase: generate creature illustrations in batches and replace placeholder pages with illustrated PDFs.
