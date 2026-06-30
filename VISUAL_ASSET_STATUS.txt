@@ -1,9 +1,11 @@
-Approved:
+Approved Canon Assets
 - The Forager Reference Sheet v1.0
 - The Lantern Reference Sheet v1.0
+- The Custodian Reference Sheet v1.0
 
 Pending:
-- The Custodian Reference Sheet
 - Chamber of Embers Concept Sheet
 - Labyrinth Concept Sheet
 - Lantern Forest Concept Sheet
+- Cover Artwork
+- Back Cover Artwork
