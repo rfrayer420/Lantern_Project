@@ -1,0 +1,6 @@
+\
+cd %USERPROFILE%\Documents\Lantern_Project
+xcopy /E /I /Y "<unzipped package folder>\*" "%USERPROFILE%\Documents\Lantern_Project\"
+git add .
+git commit -m "Add approved visual canon and character biography updates"
+git push origin main
