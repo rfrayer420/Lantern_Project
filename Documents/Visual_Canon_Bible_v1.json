@@ -1,0 +1,103 @@
+{
+  "version": "v1.0",
+  "project": "Lantern_Project",
+  "type": "Visual_Canon_Bible",
+  "characters": {
+    "George": {
+      "type": "human_origin",
+      "visual_identity": {
+        "age_range": "middle-aged",
+        "body_type": "average build, slightly worn laborer frame",
+        "face": "tired, emotionally burdened, realistic human features",
+        "hair": "dark, unkempt or medium-length depending on stress state",
+        "clothing": "industrial/workwear, grounded real-world attire",
+        "environment_rule": "pre-Labyrinth reality, mundane decay",
+        "key_trait": "no supernatural markings or artifacts present"
+      }
+    },
+    "The Orager": {
+      "type": "cenobite_pre_collapse",
+      "visual_identity": {
+        "body_type": "human-derived cenobite form",
+        "skin": "partially altered, ritual-corrupted but still structured",
+        "armor": "symmetrical cenobite plating with embedded identity pins",
+        "pins": "black iron identity anchors embedded across body",
+        "face": "controlled expression, suppressed emotional leakage",
+        "signature_items": [
+          "identity pins (active suppression system)"
+        ],
+        "lighting_rule": "cold, clinical shadows with minimal amber influence",
+        "key_trait": "identity is actively contained and stabilized"
+      }
+    },
+    "The Forager": {
+      "type": "cenobite_post_collapse",
+      "visual_identity": {
+        "body_type": "fully transformed cenobite entity",
+        "skin": "fractured, ritual-integrated, semi-organic distortion",
+        "armor": "asymmetrical chain-bound cenobite architecture",
+        "head": "distorted crown-like cenobite formation",
+        "signature_items": [
+          "Lantern",
+          "chain relics",
+          "fragmented bindings"
+        ],
+        "lighting_rule": "amber Lantern glow = emotional truth source",
+        "environment_interaction": "reality warps around memory exposure",
+        "key_trait": "identity is fragmented and reassembled via Lantern exposure"
+      }
+    },
+    "Ashmaw": {
+      "type": "hellhound_cenobite_anomaly",
+      "visual_identity": {
+        "base_form": "deer-head chihuahua origin distorted into Hellhound",
+        "body_type": "oversized hellhound relative to class standard",
+        "fur_or_skin": "burnt ash-textured biological matter",
+        "eyes": "dim ember glow with emotional resonance",
+        "key_trait": "first K9 cenobite anomaly",
+        "behavior": "protective, emotionally bonded entity",
+        "environment_rule": "reacts to emotional memory spikes near Lantern"
+      }
+    },
+    "Chevy": {
+      "type": "canine_living_origin",
+      "visual_identity": {
+        "breed_type": "deer-head chihuahua",
+        "size": "small",
+        "behavior": "anxious but affectionate",
+        "temperament": "loyal, sensitive to stress environments",
+        "key_trait": "pre-cenobite origin form of Ashmaw"
+      }
+    },
+    "Mary-Anna": {
+      "type": "human_child",
+      "visual_identity": {
+        "age_range": "teenager",
+        "body_type": "developing adolescent",
+        "expression": "emotionally reactive, complex attachment state",
+        "environment_rule": "real-world grounded setting (non-Hell)",
+        "key_trait": "emotional anchor to George narrative thread"
+      }
+    },
+    "RJ": {
+      "type": "human_supporting_character",
+      "visual_identity": {
+        "body_type": "adult human male",
+        "role_archetype": "secondary grounding character",
+        "expression": "neutral to concerned depending on scene",
+        "key_trait": "real-world narrative stabilizer character"
+      }
+    }
+  },
+  "rules": {
+    "canon_lock": [
+      "George = human only",
+      "Orager = pinned cenobite state only",
+      "Forager = post-collapse cenobite only",
+      "no hybrid visual reinterpretation"
+    ],
+    "transformation_chain": "George \u2192 Orager \u2192 Forager",
+    "animal_link": "Chevy \u2192 Ashmaw is single continuous entity",
+    "source_of_truth": "Visual_Canon_Bible_v1.json"
+  }
+}
